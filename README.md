@@ -39,7 +39,7 @@ The dataset includes detailed vehicle attributes such as:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/kave-sharifi/CO2-Prediction.git>
+   git clone <https://github.com/Mo-sharifi/CO2-Prediction.git>
    cd CO2_Emissions_Prediction
    ```
 2. Install required packages:
