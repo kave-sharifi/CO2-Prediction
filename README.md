@@ -1,4 +1,3 @@
-# CO2-Prediction
 # CO₂ Emissions Prediction
 
 ## Project Overview
@@ -40,12 +39,12 @@ The dataset includes detailed vehicle attributes such as:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/kave-sharifi/CO2-Prediction.git>
    cd CO2_Emissions_Prediction
    ```
 2. Install required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements_minimal.txt
    ```
 3. Run the Jupyter Notebook:
    ```bash
@@ -55,7 +54,7 @@ The dataset includes detailed vehicle attributes such as:
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Required packages (listed in `requirements.txt`)
+- Required packages (listed in `requirements_minimal.txt`)
 
 ## Author
 **Mohammadreza Sharifi**
